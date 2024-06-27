@@ -1,0 +1,14 @@
+﻿  12BeadCode.cpp
+C:\Users\alize\Desktop\12Bead\23L0674-12Bead\12BeadCode.cpp(13,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\alize\Desktop\12Bead\23L0674-12Bead\12BeadCode.cpp(13,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\alize\Desktop\12Bead\23L0674-12Bead\12BeadCode.cpp(3257,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alize\Desktop\12Bead\23L0674-12Bead\12BeadCode.cpp(3257,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  23L0674-12Bead.vcxproj -> C:\Users\alize\Desktop\12Bead\23L0674-12Bead\x64\Debug\23L0674-12Bead.exe
